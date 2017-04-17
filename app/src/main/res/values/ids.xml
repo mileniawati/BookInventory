@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtBookTittle" type="id" />
+    <item name="txtOtherInfo" type="id" />
+    <item name="spinnerGenre" type="id" />
+</resources>
