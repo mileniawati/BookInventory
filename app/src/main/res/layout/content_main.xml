@@ -19,7 +19,7 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentTop="true"
-        android:background="@color/red"
+        android:background="@color/cream"
         android:scrollbars="vertical">
 
     </android.support.v7.widget.RecyclerView>
